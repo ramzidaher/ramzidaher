@@ -1,6 +1,9 @@
 # Hi there, I'm Ramzi Daher! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a passionate software engineer and backend developer who loves building innovative, system-level solutions. I enjoy working on servers and infrastructure to craft robust, scalable, and efficient applications. Currently, I'm exploring new technologies and architectures to create high-performance systems.
+- 💻 **Software Engineer & Backend Developer**: Building innovative, system-level solutions.
+- 🖥️ **Infrastructure Enthusiast**: Crafting robust, scalable, and efficient applications through server and backend work.
+- 🚀 **Tech Explorer**: Constantly discovering new technologies and architectures to create high-performance systems.
+- 🔧 **Hardware Tinkerer**: Passionate about taking apart devices and exploring the intricacies of hardware.
 
 
 ## 🌐 Socials:
