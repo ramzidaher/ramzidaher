@@ -1,8 +1,6 @@
 # Hi there, I'm Ramzi Daher! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm a passionate developer & designer who loves building innovative solutions. I blend creativity with coding to craft engaging user experiences. Currently exploring new tech stacks to create next-level web apps. 
-
-- 🌐 **Website**: [ramzidaher.com](https://ramzidaher.com)
+I'm a passionate software engineer and backend developer who loves building innovative, system-level solutions. I enjoy working on servers and infrastructure to craft robust, scalable, and efficient applications. Currently, I'm exploring new technologies and architectures to create high-performance systems.
 
 
 ## 🌐 Socials:
