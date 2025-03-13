@@ -4,7 +4,7 @@
 - 🖥️ **Infrastructure Enthusiast**: Crafting robust, scalable, and efficient applications through server and backend work.
 - 🚀 **Tech Explorer**: Constantly discovering new technologies and architectures to create high-performance systems.
 - 🔧 **Hardware Tinkerer**: Passionate about taking apart devices and exploring the intricacies of hardware.
-- - 🐧 **Linux Aficionado**: A huge fan of Linux – because nothing beats a good penguin party on your system!
+- 🐧 **Linux Aficionado**: A huge fan of Linux – because nothing beats a good penguin party on your system!
 
 
 ## 🌐 Socials:
